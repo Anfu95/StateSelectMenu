@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { ThemeProvider } from "@chakra-ui/core";
-import Equipos from "./SelectEstate";
+import SelectEstate from "./SelectEstate";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider>
-      <Equipos />
+      <SelectEstate />
     </ThemeProvider>
   </React.StrictMode>,
   rootElement
