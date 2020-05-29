@@ -1,2 +1,0 @@
-# StateSelectMenu
-Created with CodeSandbox
